@@ -1,0 +1,2 @@
+nacos:
+  address: nacos:8848
